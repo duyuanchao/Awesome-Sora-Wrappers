@@ -28,6 +28,13 @@ If you have a project similar to these, we welcome you to contribute and share i
 | FakeSoraAPI              | [GitHub](https://github.com/SoraWebui/FakeSoraAPI) |
 
 
+### Prompt Tools
+
+| Tool Name | URL | Description |
+| --------- | --- | ----------- |
+| TubePrompter | [Visit](https://tubeprompter.com) | Free video to Sora/Midjourney/Veo prompt generator. Paste any YouTube, TikTok, or Instagram URL to get AI-ready prompts. |
+
+
 ### Open-Sora Project
 
 | Open Source Project Name | Source Code URL                                     |
